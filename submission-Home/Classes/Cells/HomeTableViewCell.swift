@@ -6,10 +6,7 @@
 //
 
 import UIKit
-
-import UIKit
 import Kingfisher
-import SnapKit
 import submission_Core
 
 class HomeTableViewCell: UITableViewCell {

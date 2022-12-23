@@ -28,9 +28,6 @@
   "dependencies": {
     "submission-Core": [
 
-    ],
-    "Kingfisher": [
-
     ]
   },
   "swift_version": "5.0"
