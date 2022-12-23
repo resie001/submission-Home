@@ -21,7 +21,7 @@ PODS:
     - RxCocoa
     - RxSwift
     - SnapKit
-  - submission-Home (1.0.0):
+  - submission-Home (1.0.1):
     - submission-Core
 
 DEPENDENCIES:
@@ -63,7 +63,7 @@ SPEC CHECKSUMS:
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
   submission-Core: dd2421b8283fa72bb337436ffa9feab5d415c49b
-  submission-Home: 16672026275203d7e8bdde735e3e9941fe663041
+  submission-Home: 9754bef6a4bf665c7888cb667167b71af83fd1ba
 
 PODFILE CHECKSUM: da8c7df6ff0282ba170a1dd76901c16e5895624d
 

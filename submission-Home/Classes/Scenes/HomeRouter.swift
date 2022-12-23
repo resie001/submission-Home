@@ -20,6 +20,7 @@ public class HomeRouter: HomePresenterToRouterProtocol {
         let interactor = HomeInteractor()
         
         view.presenter = presenter
+        view.delegate = delegate
         presenter.view = view
         presenter.router = router
         presenter.interactor = interactor

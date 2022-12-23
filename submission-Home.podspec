@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'submission-Home'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of submission-Home.'
 
 # This description is used to generate tags and improve search results.
