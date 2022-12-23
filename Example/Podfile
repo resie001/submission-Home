@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'submission-Home_Example' do
+  pod 'submission-Home', :path => '../'
+
+  target 'submission-Home_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
