@@ -1,0 +1,6 @@
+framework module submission_Home {
+  umbrella header "submission-Home-umbrella.h"
+
+  export *
+  module * { export * }
+}

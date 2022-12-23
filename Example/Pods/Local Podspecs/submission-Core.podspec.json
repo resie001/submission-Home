@@ -1,0 +1,52 @@
+{
+  "name": "submission-Core",
+  "version": "1.0.2",
+  "summary": "A short description of submission-Core.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/resie001/submission-Core",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ade resie": "ade.resie@privyid.tech"
+  },
+  "source": {
+    "git": "https://github.com/resie001/submission-Core.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "submission-Core/Classes/**/*",
+  "resource_bundles": {
+    "submission-Core": [
+      "submission-Core/Assets/**/*"
+    ]
+  },
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "AlamofireNetworkActivityLogger": [
+
+    ],
+    "ObjectMapper": [
+
+    ],
+    "RxSwift": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "PanModal": [
+
+    ],
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

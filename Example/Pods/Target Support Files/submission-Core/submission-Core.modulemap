@@ -1,0 +1,6 @@
+framework module submission_Core {
+  umbrella header "submission-Core-umbrella.h"
+
+  export *
+  module * { export * }
+}

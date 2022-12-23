@@ -1,8 +1,9 @@
 use_frameworks!
 
-platform :ios, '10.0'
+platform :ios, '13.0'
 
 target 'submission-Home_Example' do
+  pod 'submission-Core', :git => 'https://github.com/resie001/submission-Core.git', :branch => 'main'
   pod 'submission-Home', :path => '../'
 
   target 'submission-Home_Tests' do

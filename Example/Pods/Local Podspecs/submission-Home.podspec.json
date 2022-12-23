@@ -1,0 +1,37 @@
+{
+  "name": "submission-Home",
+  "version": "1.0.0",
+  "summary": "A short description of submission-Home.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/resie001/submission-Home.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ade resie": "ade.resie@privyid.tech"
+  },
+  "source": {
+    "git": "https://github.com/resie001/submission-Home.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "submission-Home/Classes/**/*",
+  "resource_bundles": {
+    "submission-HomeResources": [
+      "submission-Home/Assets/**/*"
+    ]
+  },
+  "dependencies": {
+    "submission-Core": [
+
+    ],
+    "Kingfisher": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
